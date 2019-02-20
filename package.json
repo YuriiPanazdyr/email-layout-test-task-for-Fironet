@@ -1,0 +1,17 @@
+{
+  "name": "email-layout-test-task-for-Fironet",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Yurii Panazdyr <panazdur@ukr.net>",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^4.0.0",
+    "gulp-file-include": "^2.0.1"
+  }
+}
